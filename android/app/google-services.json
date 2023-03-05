@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79019181106",
+    "project_id": "ctse-inclass",
+    "storage_bucket": "ctse-inclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79019181106:android:e8dcbeb3f19b927b6b682b",
+        "android_client_info": {
+          "package_name": "com.example.ctse_inclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79019181106-bidv8f5r8f5t4ptntl1ufmfcca3likkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-4DvFoNPvvQLAwIOlGxn4JgKnin43qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79019181106-bidv8f5r8f5t4ptntl1ufmfcca3likkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
